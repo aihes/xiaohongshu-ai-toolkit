@@ -28,8 +28,8 @@
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/your-username/redbook-cover-maker.git
-cd redbook-cover-maker
+git clone https://github.com/aihes/xiaohongshu-ai-toolkit.git
+cd xiaohongshu-ai-toolkit
 
 # 2. 安装依赖
 npm install
@@ -210,9 +210,9 @@ npm run format
 
 如果你遇到问题或有建议：
 
-- 📧 Email: your-email@example.com
-- 🐛 [Issues](https://github.com/your-username/redbook-cover-maker/issues)
-- 💬 [Discussions](https://github.com/your-username/redbook-cover-maker/discussions)
+- 📧 Email: aihehe123@gmail.com
+- 🐛 [Issues](https://github.com/aihes/xiaohongshu-ai-toolkit/issues)
+- 💬 [Discussions](https://github.com/aihes/xiaohongshu-ai-toolkit/discussions)
 
 ---
 
